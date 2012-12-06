@@ -2,6 +2,9 @@ pyxnat (0.9.1+git39-g96bf069-1) experimental; urgency=low
 
   * New upstream snapshot from origin/master at 0.9.1-39-g96bf069:
     - should resolve various issues while connecting to recent XNAT 1.6.x
+  * Boosted policy to 3.9.4 (no changes)
+  * Changed maintainer to NeuroDebian due to inability to reach original
+    maintainer
 
  -- Yaroslav Halchenko <debian@onerussian.com>  Wed, 05 Dec 2012 23:09:10 -0500
 
