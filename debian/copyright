@@ -1,10 +1,10 @@
-Format-Specification: http://svn.debian.org/wsvn/dep/web/deps/dep5.mdwn?op=file&rev=173
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: pyxnat
 Upstream-Contact: Yannick Schwartz <yannick.schwartz@cea.fr>
 Source: http://github.com/pyxnat/pyxnat
 
 Files: *
-Copyright: 2010-2011, Yannick Schwartz
+Copyright: 2010-2012, Yannick Schwartz, Christian Haselgrove, David Just
 License: BSD-3
  Redistribution and use in source and binary forms, with or without
  modification, are permitted provided that the following conditions are
